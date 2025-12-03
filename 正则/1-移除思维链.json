@@ -1,0 +1,17 @@
+{
+    "id": "ee58aed8-2d60-4895-bc57-a1274dd09d59",
+    "scriptName": "🔔 1-移除思维链",
+    "findRegex": "/(<think>[\\s\\S]*?<\\/think>|<thinking>[\\s\\S]*?<\\/thinking>)/gm",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}

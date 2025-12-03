@@ -1,0 +1,18 @@
+{
+    "id": "d3d695c8-1a72-4b6b-bcde-f056f1efbc20",
+    "scriptName": "🔔 3-移除宣言",
+    "findRegex": "/<Adult>[\\s\\S]*?</Adult>/gm",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}

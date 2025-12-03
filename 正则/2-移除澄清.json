@@ -1,0 +1,17 @@
+{
+    "id": "d5f1f1c0-7664-4e3b-a432-b059a3e5f8a3",
+    "scriptName": "🔔 2-移除澄清",
+    "findRegex": "/<Clarify>[\\s\\S]*?</Clarify>/gm",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
