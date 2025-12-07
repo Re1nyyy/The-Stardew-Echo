@@ -1,4 +1,6 @@
 # train.py
+# 在云主机的workspace下运行
+# 
 import os
 import glob
 import torch
